@@ -4,6 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /*Reset*/
@@ -11,8 +12,12 @@
 /*Common start*/
 
 body{
-    background-color: rgb(138, 199, 228);
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(138, 199, 228, 0.2);
+   
+}
+
+.list-container{
+    margin-top: 50px;
 }
 
 /*Common end*/
@@ -72,18 +77,102 @@ nav {
     color: grey;
     font-size: 10px;
     padding: 7px;
-    
-
- 
 
 }
 
+ul {
+    list-style-type: none;
+
+}
+
+li{
+    margin-top: 10px;
+
+}
+
+ul h3{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul .triangle {
+    vertical-align: middle;
+    font-size: 20px;
+}
 
 
+ul .checkright{
+    height: 20px;
+    width: 20px;
+    border: 2px solid  #7cfc00;
+    color: #7cfc00;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    font-size: 15px;   
+}
+
+ul .checkwrong{
+    height: 20px;
+    width: 20px;
+    border: 2px solid  red;
+    color: red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    font-size: 8px;   
+}
+
+.ref1{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 15%;
+}
+
+.ref2{
+    background-color: rgb(110, 16, 197);
+    color: cornsilk;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 15%;
+}
 
 
+.ref3{
+    background-color: rgb(16, 197, 182);
+    color: cornsilk;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 15%;
+}
 
+.ref4{
+    background-color: rgb(214, 150, 13);
+    color: cornsilk;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 15%;
+}
 
+.ref5{
+    background-color: rgb(207, 97, 174);
+    color: cornsilk;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 15%;
+}
+
+.ref6{
+    background-color: #7fff00;
+    color: cornsilk;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 15%;
+}
 /*Main end*/
 
 
