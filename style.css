@@ -60,7 +60,7 @@ nav {
 .link1{
  
  border: 1px solid rgb(84, 84, 233);
- border-radius: 10%;
+ border-radius: 10px;;
  text-decoration: none;
  background-color: cornflowerblue;
  color: white;
@@ -71,7 +71,7 @@ nav {
 
 .link2{
     border: 1px solid lightgray;
-    border-radius: 10%;
+    border-radius: 10px;;
     text-decoration: none;
     background-color:white;
     color: grey;
@@ -130,7 +130,7 @@ ul .checkwrong{
     color: cornsilk;
     font-size: 10px;
     padding: 6px;
-    border-radius: 15%;
+    border-radius: 10px;
 }
 
 .ref2{
@@ -138,7 +138,7 @@ ul .checkwrong{
     color: cornsilk;
     font-size: 10px;
     padding: 6px;
-    border-radius: 15%;
+    border-radius: 10px;
 }
 
 
@@ -147,7 +147,7 @@ ul .checkwrong{
     color: cornsilk;
     font-size: 10px;
     padding: 6px;
-    border-radius: 15%;
+    border-radius: 10px;
 }
 
 .ref4{
@@ -155,7 +155,7 @@ ul .checkwrong{
     color: cornsilk;
     font-size: 10px;
     padding: 6px;
-    border-radius: 15%;
+    border-radius: 10px;
 }
 
 .ref5{
@@ -163,7 +163,7 @@ ul .checkwrong{
     color: cornsilk;
     font-size: 10px;
     padding: 6px;
-    border-radius: 15%;
+    border-radius: 10px;
 }
 
 .ref6{
@@ -171,7 +171,7 @@ ul .checkwrong{
     color: cornsilk;
     font-size: 10px;
     padding: 6px;
-    border-radius: 15%;
+    border-radius: 10px;
 }
 /*Main end*/
 
