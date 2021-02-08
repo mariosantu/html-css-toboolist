@@ -1,0 +1,42 @@
+/*Reset*/
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*Reset*/
+
+/*Common start*/
+
+body{
+    background-color: rgb(138, 199, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Common end*/
+
+
+
+/*Header start*/
+header{
+    padding: 10px;
+    height: 75px;
+    background-color: white;
+}
+
+header h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+
+header img{
+    vertical-align: middle;
+}
+
+/*Header end*/
+
