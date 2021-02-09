@@ -27,8 +27,7 @@ body{
 
 /*Header start*/
 header{
-    padding: 10px;
-    height: 75px;
+    padding: 10px; 
     background-color: white;
 }
 
@@ -48,12 +47,16 @@ header img{
 /*Header end*/
 
 /*Main start*/
- .mainbox{
-   margin-left: 25%;
-   height: 675px;
-   width: 1024px;
-   background-color: white;
-   margin-top: 50px;
+main{
+    padding: 40px;
+}
+
+.mainbox{
+     width: 70%;
+     margin: auto;
+     padding: 40px;
+     background-color: white;
+
  }
 
 nav{
